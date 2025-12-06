@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm ereWea</h1>
-<h3 align="center">A dev learning backend Java Development and more</h3>
+<h3 align="center">Learving Everything</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erewea&label=Profile%20views&color=0e75b6&style=flat" alt="erewea" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=erewea" alt="erewea" /></a> </p>
 
-- 🌱 I’m currently learning **Java / Backend / Springboot / Game Dev**
+- 🌱 I’m currently learning **Java / Python / JavaScript / Web Development / Game Dev**
 
 - 💬 Ask me about **anything!**
 
